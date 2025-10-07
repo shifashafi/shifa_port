@@ -9,7 +9,7 @@ const projects = [
   {
     title: 'Seq2SMILES: Molecular Generation',
     description: 'Improved a neural network that generates new chemical structures from existing molecules and their SMILES values, advancing research in bioinformatics.',
-    tech: ['Python', 'rdkit', 'TensorFlow'],
+    tech: ['Python', 'RDkit', 'TensorFlow'],
   },
   {
     title: 'License Plate Detection System',
@@ -28,7 +28,7 @@ export default function Projects() {
     <section id="projects" className="py-20 px-6 bg-neutral-50 dark:bg-neutral-950">
       <div className="max-w-6xl mx-auto">
         <h2 className="text-4xl md:text-5xl font-bold text-neutral-900 dark:text-neutral-100 mb-16">
-          Featured Projects
+          Projects
         </h2>
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
