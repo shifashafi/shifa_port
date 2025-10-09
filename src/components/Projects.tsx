@@ -9,7 +9,7 @@ const projects = [
   {
     title: 'Seq2SMILES: Molecular Generation',
     description: 'Improved a neural network that generates new chemical structures from existing molecules and their SMILES values, advancing research in bioinformatics.',
-    tech: ['Python', 'RDkit', 'TensorFlow'],
+    tech: ['Python', 'RDKit', 'TensorFlow'],
   },
   {
     title: 'License Plate Detection System',
