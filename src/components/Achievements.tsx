@@ -2,6 +2,11 @@ import { Trophy, BookOpen, Users } from 'lucide-react';
 
 const achievements = [
   {
+    icon: BookOpen,
+    title: 'IEEE Publication',
+    description: 'Reinforcing License Plate Detection Against Adversarial Attacks and Environmental Disruptions – 4th International Conference on Advances in Computing, Communication, Embedded, and Secure Systems',
+  },
+  {
     icon: Trophy,
     title: 'AWS AI/ML Scholarship',
     description: 'Recipient of AWS AI/ML Scholarship',
@@ -16,11 +21,7 @@ const achievements = [
     title: 'ComSoc Chapter Secretary',
     description: 'IEEE SB GEC PALAKKAD',
   },
-  {
-    icon: BookOpen,
-    title: 'IEEE Publication',
-    description: 'Reinforcing License Plate Detection Against Adversarial Attacks and Environmental Disruptions – 4th International Conference on Advances in Computing, Communication, Embedded, and Secure Systems',
-  },
+  
 ];
 
 export default function Achievements() {
