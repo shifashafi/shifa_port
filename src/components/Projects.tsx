@@ -17,9 +17,14 @@ const projects = [
     tech: ['YOLO', 'OCR', 'Computer Vision'],
   },
   {
+    title: 'Advanced Multi-Agent RAG System',
+    description: 'A production-grade Retrieval-Augmented Generation (RAG) system with hybrid search, multi-agent architecture, self-reflection capabilities, and web search fallback.',
+    tech: ['Arduino (C)', 'Arduino IDE', 'Python', 'OpenCV'],
+  },
+  {
     title: 'Culprit identification and lie detection system using ARDUINO UNO and RASPBERRY PI',
     description: 'Utilized Arduino UNO to gather physiological data (heart rate, skin conductivity).\n Implemented a facial recognition system using Raspberry Pi. \n Used OpenCV for real-time facial detection and matching against a database.',
-    tech: ['Arduino (C)', 'Arduino IDE', 'Python', 'OpenCV'],
+    tech: ['Python','ChromaDB','Ollama','Streamlit','Sentence-Transformers','LangChain'],
   },
 ];
 

@@ -19,7 +19,7 @@ const achievements = [
   {
     icon: BookOpen,
     title: 'IEEE Publication',
-    description: 'Reinforcing License Plate Detection Against Adversarial Attacks and Environmental Disruptions – 4th International Conference on Advances in Computing, Communication, Embedded, and Secure Systems (Accepted, to be published)',
+    description: 'Reinforcing License Plate Detection Against Adversarial Attacks and Environmental Disruptions – 4th International Conference on Advances in Computing, Communication, Embedded, and Secure Systems',
   },
 ];
 
